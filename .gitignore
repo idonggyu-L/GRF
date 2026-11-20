@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.gif
+*.mp4
+*.dump
+logs/
+runs/
